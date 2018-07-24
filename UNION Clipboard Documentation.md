@@ -1,5 +1,5 @@
 # UNION Clipboard Beta版本说明文档
-# UNION Clipboard Beta Version User Guide
+# [User Guide in English](https://github.com/HALOCORE/UserGuides/blob/master/UNION%20Clipboard%20Documentation_en.md)
 
 ## 数据组织方式
 * 一次剪贴板数据读取，得到一个数据条目。
@@ -35,5 +35,5 @@
 ### 右侧编辑框（窗口宽度大于1000像素，才会出现）
 > 目前，编辑框可以修改条目内容，和条目名称（用于检索）。
 
-文本修改提供了__查找替换__和__正则表达式__快捷功能。
+文本修改提供了 __查找替换__ 和 __正则表达式__ 快捷功能。
 

@@ -1,8 +1,7 @@
-# UNION Clipboard Beta版本说明文档
 # UNION Clipboard Beta Version User Guide
 
 
-# # Data Organization Way
+## Data Organization Way
 * Once clipboard data is read, get a data entry. * Entries are stored in the Favorites folder.
 Each entry is in a Favorites folder. * entries can be added to any number of labels and the entries are sorted by label.
 You can view the entries for each label directly.
@@ -11,7 +10,7 @@ You can view the entries for each label directly.
 
 * Item content can be modified, you need to click __Save__.
 
-# # Basic functions and operations
+## Basic functions and operations
 ### Upper left corner button (read clipboard)
 > Check the contents of the current system Clipboard to simple txt text or rich text (such as a formatted band with pictures copied from Word, or a color code copied from vs code).
 
