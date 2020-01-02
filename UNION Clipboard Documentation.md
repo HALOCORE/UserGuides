@@ -1,6 +1,10 @@
 # UNION Clipboard Beta版本说明文档
 # [User Guide in English](https://github.com/HALOCORE/UserGuides/blob/master/UNION%20Clipboard%20Documentation_en.md)
 
+<<<<<<<
+=======
+>>>>>>>
+
 ## 数据组织方式
 * 一次剪贴板数据读取，得到一个数据条目。
 * 条目按照收藏夹存储。每个条目都存在一个收藏夹内。
