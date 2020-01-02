@@ -2,7 +2,7 @@
 # [User Guide in English](https://github.com/HALOCORE/UserGuides/blob/master/UNION%20Clipboard%20Documentation_en.md)
 
 <<<<<<<
-=======****ff
+=======***
 >>>>>>>
 
 ## 数据组织方式
